@@ -1,5 +1,12 @@
 Stratified design
 ------------------
-The notion that a problem should be broken down into multiple levels. Each level is described using language appropriate for that level. 
+The notion that a problem should be broken down into multiple levels. 
+Each level is described using language appropriate for that level. 
 
-Example: In computer engineering, resistors and transistors are combined and described using a language of analog circuits. These produce parts for the next level (for example and-/or-gates) which form the language for the next level of digital circuit design. These circuits are combined to build processors, memory, busses and so on. The process of building are computer consists of the language of processors/memory/busses. Computers may be combined into networks of distributed systems using yet another language/ 
+Example: In computer engineering, resistors and transistors are combined 
+and described using a language of analog circuits. These produce parts 
+for the next level (for example and-/or-gates) which form the language 
+for the next level of digital circuit design. These circuits are combined 
+to build processors, memory, busses and so on. The process of building are 
+computer consists of the language of processors/memory/busses. Computers 
+may be combined into networks of distributed systems using yet another language. 
