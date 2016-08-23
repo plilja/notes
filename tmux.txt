@@ -1,0 +1,31 @@
+Managing sessions
+--------------------
+tmux new -s {session-name}
+tmux ls
+tmux a -t {session-name}
+tmux a  # attaches to last session
+
+
+Windows/Tabs
+--------------
+# Create new
+C-a c 
+# Move next
+C-a n
+# Move prev
+C-a p
+# Kill
+C-a &
+
+
+Splits
+---------------
+Vertical
+C-a v 
+
+Horizontal
+C-a s
+
+Navigation
+C-a hjkl
+
