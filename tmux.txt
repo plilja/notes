@@ -29,3 +29,5 @@ C-a s
 Navigation
 C-a hjkl
 
+Resize
+C-a HJKL
